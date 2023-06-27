@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Gabryel Bele
+#### I am learning back-end for be a professional big of technology
+![I am learning back-end for be a professional big of technology](https://wallpapercave.com/wp/wp5070716.jpg)
 
-<!--
-**GabryelBele/GabryelBele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am improving HTTP request and response techniques with the **Express** dependency and developing Crud with the **MongoDB** database
 
-Here are some ideas to get you started:
+Skills: NODE JS / EXPRESS / MONGODB/  JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning JWT Authentication and how to implement it inside the API 
+- 🤔 I’m looking for help with people who are interested in sharing their knowledge 
+
+
+
+
