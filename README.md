@@ -1,5 +1,17 @@
-### Olá sou Gabryel Bele 👋
+<h1 align="center">Hi 👋, I'm Gabryel Bele</h1>
+<h3 align="center">FullStack Developer</h3>
 
+- 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news)
+
+- 🌱 I’m currently learning **PostgreSql**
+
+- 💬 Ask me about **NodeJs, Express , MongoDB and React.Js**
+
+- 📫 How to reach me **itzwollbr@gmail.com**
+
+- ⚡ Fun fact **I love reading **
+<hr/>
+<h3 align="left">Connect with me:</h3>
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:62985533705)
 
 ![Gabryel Bele GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelBele&show_icons=true&theme=dracula)
