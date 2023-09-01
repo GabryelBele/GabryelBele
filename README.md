@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabryel Bele</h1>
 <h3 align="center">FullStack Developer</h3>
 
-- 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news) and {Parking Control Api] (https://github.com/MichelliBrito/parking-control-api)
+- 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news) and [Parking Control Api](https://github.com/MichelliBrito/parking-control-api)
 
 - 🌱 I’m currently learning **PostgreSql** **JAVA** **SPRING BOOT**
 
