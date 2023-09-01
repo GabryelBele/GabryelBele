@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Breaking News App](https://github.com/codethi/breaking-news) and [Parking Control Api](https://github.com/MichelliBrito/parking-control-api)
 
-- 🌱 I’m currently learning **PostgreSql** **JAVA** **SPRING BOOT**
+- 🌱 I’m currently learning **PostgreSql** , **JAVA** , **SPRING BOOT**
 
 - 📫 How to reach me **itzwollbr@gmail.com**
 
