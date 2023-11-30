@@ -1,13 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
 <h2 align="center">
-  :coffee: Developer Backend :computer:
+  Developer Backend :computer: :coffee: 
 </h2>
 
 <p align="center">
 Entusiasta em desenvolvimento backend com Java e Spring, buscando aprender e aplicar essas tecnologias para construir soluções robustas.<br>
 Focado em Spring Boot para criar APIs RESTful e entender a arquitetura de microserviços.<br>
-Explorando diversas áreas, como persistência de dados com Spring Data JPA e noções de segurança com Spring Security.<br>
 Comprometido com aprendizado contínuo para entregar soluções de backend de qualidade.
 </p>
 &nbsp;
